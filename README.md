@@ -9,6 +9,5 @@
 🌙 ¡Emocionada por seguir aprendiendo y aportando en esta emocionante travesía hacia el análisis de datos!"
 
 #### 📫 ¿Donde encontrarme? 
--[Linkedin]:([linkedin.com/in/vigee-carolina-rojas])
-
+-[Linkedin]: [https://www.linkedin.com/in/vigee-carolina-rojas/]
 --> 
