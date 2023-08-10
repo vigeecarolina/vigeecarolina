@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**vigeecarolina/vigeecarolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💗 Apasionada de la tecnología y en pleno proceso de transición laboral hacia el mundo del Data Analytics. 
+  
+🐍 Me encuentro inmersa en el estudio y la práctica constante de lenguaje SQL y Python, mientras también exploro las potentes herramientas de Microsoft. 
 
-Here are some ideas to get you started:
+🌱 Mi entusiasmo radica en descubrir innovadoras formas de automatizar y optimizar el flujo de trabajo. 
+  
+🌙 ¡Emocionada por seguir aprendiendo y aportando en esta emocionante travesía hacia el análisis de datos!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 ¿Donde encontrarme? 
+- [Linkedin]: linkedin.com/in/vigee-carolina-rojas
+
+--> 
